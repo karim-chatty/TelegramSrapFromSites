@@ -1,0 +1,22 @@
+
+course_bot_session.session
+
+# 🔐 Sensitive secrets
+.env
+*.session
+
+# 🧪 Virtual environment
+meinvenv/
+
+# 🧹 Python build junk
+__pycache__/
+*.pyc
+
+# 📊 Local database
+posted-courses.json
+db
+
+
+*.log
+*.sqlite
+*.db
